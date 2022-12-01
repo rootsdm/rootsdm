@@ -20,6 +20,23 @@
 - Algoritmos
 - Estruturas de dados
 
+#### Pre-Transição de Carreira
+- Universidade Federal da Paraíba - PETELETRICA
+> Novembro de 2021 - Minicurso - Introdução a Manipulação de Dados com Python: NumPy e Pandas.
+
+
+-Instituto de Ciências Matemáticas e de Computação (ICMC) - USP
+>Setembro de 2021 - Curso de Extensão: Python para Processamento de Linguagem Natural: Comemorativa 50 anos ICMC, Tecnologia da Informação.
+>Python: NLTK e spaCy
+
+-Fuctura Tecnologia 
+>Julho de 2021 - Lógica de Programação 
+
+#### Trabalho Voluntário
+- Rio Vivo Rio Limpo
+>Meio ambiente - é uma ação desde 20/01/2020 e tem como objetivo principal promover a conscientização da população nativa e os turistas com relação ao problema ambiental causado pelos descartes inapropriados de resíduos na região do Cabo de Santo Agostinho.
+
+
 #### Atualmente
 - Em busca de uma oportunidade para aumentar meu conhecimento.
 
