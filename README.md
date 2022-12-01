@@ -1,10 +1,10 @@
 # 👋 Oi, Eu sou Sergio Diniz.
 
-## Contador
-## Estudante de Desenvolvimento de Sistemas (Ampli-Pitágoras) e Java (Fuctura cursos de tecnologia), ambom em andamento.
+## Contador em trnasição de carreira.
+## Estudante de Desenvolvimento de Sistemas (Ampli-Pitágoras) - em andamento.
+## Curso Java (Fuctura - Cursos de Tecnologia) - em andamento.
 
 #### Sobre mim em 30 segundos
-- Contador em transição de carreira.
 - 1 ano de faculdade, desde Novembro/2021.
 - Implantei ERP.
 - Conhecimentos em: Sql, Python e  Java.
