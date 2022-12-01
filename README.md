@@ -1,6 +1,6 @@
 # 👋 Oi, Eu sou Sergio Diniz.
 
-## Contador em trnasição de carreira.
+## Contador em transição de carreira.
 ## Estudante de Desenvolvimento de Sistemas (Ampli-Pitágoras) - em andamento.
 ## Curso Java (Fuctura - Cursos de Tecnologia) - em andamento.
 
