@@ -5,9 +5,9 @@
 ## Curso Java (Fuctura - Cursos de Tecnologia) - em andamento.
 
 #### Sobre mim em 30 segundos
-- 1 ano de faculdade, desde Novembro/2021.
+- 1 ano de faculdade, nova gradução - desde Novembro/2021.
 - Implantei ERP.
-- Conhecimentos em: Sql, Python e  Java.
+- Conhecimentos em: Sql, Git, Python e Java.
 
 
 #### Competências principais
@@ -33,7 +33,7 @@
 >Julho de 2021 - Lógica de Programação 
 
 #### Trabalho Voluntário
-- Rio Vivo Rio Limpo
+- Rio Vivo Rio Limpo 
 >Meio ambiente - é uma ação desde 20/01/2020 e tem como objetivo principal promover a conscientização da população nativa e os turistas com relação ao problema ambiental causado pelos descartes inapropriados de resíduos na região do Cabo de Santo Agostinho.
 
 
