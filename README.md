@@ -5,7 +5,7 @@
 ## Curso Java (Fuctura - Cursos de Tecnologia) - em andamento.
 
 #### Sobre mim em 30 segundos
-- 1 ano de faculdade, nova gradução - desde Novembro/2021.
+- 1 ano de faculdade, nova graduação - desde Novembro/2021.
 - Implantei ERP.
 - Conhecimentos em: Sql, Git, Python e Java.
 
