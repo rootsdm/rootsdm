@@ -1,6 +1,7 @@
 # 👋 Oi, Eu sou Sergio Diniz.
 
 ## Contador em transição de carreira.
+## Estagiário na Ludatech (JAVA BECKEND)
 ## Estudante de Desenvolvimento de Sistemas (Ampli-Pitágoras) - em andamento.
 ## Curso Java (Fuctura - Cursos de Tecnologia) - em andamento.
 
