@@ -1,6 +1,6 @@
 # 👋 Oi, Eu sou Sergio Diniz.
 
-## Contador em transição de carreira.
+## DEV backEnd Java full stack.
 ## Estagiário na Ludatech (JAVA BACKEND)
 ## Estudante de Desenvolvimento de Sistemas (Ampli-Pitágoras) - em andamento.
 ## Curso Java (Fuctura - Cursos de Tecnologia) - em andamento.
