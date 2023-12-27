@@ -2,8 +2,8 @@
 
 ## DEV backEnd Java full stack.
 ## Estagiário na Ludatech (JAVA BACKEND)
-## Estudante de Desenvolvimento de Sistemas (Ampli-Pitágoras) - em andamento.
-## Curso Java (Fuctura - Cursos de Tecnologia) - em andamento.
+## Estudante de Desenvolvimento de Sistemas (Ampli-Pitágoras) - conclusão dezembro/2023.
+## Curso Java (Fuctura - Cursos de Tecnologia) - conlcusão julho/2023.
 
 #### Sobre mim em 30 segundos
 - 1 ano de faculdade, nova graduação - desde Novembro/2021.
