@@ -6,9 +6,10 @@
 ## Curso Java (Fuctura - Cursos de Tecnologia) - conlcusão julho/2023.
 
 #### Sobre mim em 30 segundos
-- 1 ano de faculdade, nova graduação - desde Novembro/2021.
+- Nova graduação ADS - Análise de Desenvolvimento de Sistemas - Conclusão: Dez/2023.
+- Conhecimentos em: Sql, Git/GitHub, Python e Java.
 - Implantei ERP.
-- Conhecimentos em: Sql, Git, Python e Java.
+
 
 
 #### Competências principais
@@ -20,6 +21,9 @@
 - Tecnologia da informação
 - Algoritmos
 - Estruturas de dados
+- JSF
+- JAVA
+- 
 
 #### Pre-Transição de Carreira
 - Universidade Federal da Paraíba - PETELETRICA
@@ -37,9 +41,6 @@
 - Rio Vivo Rio Limpo 
 >Meio ambiente - é uma ação desde 20/01/2020 e tem como objetivo principal promover a conscientização da população nativa e os turistas com relação ao problema ambiental causado pelos descartes inapropriados de resíduos na região do Cabo de Santo Agostinho.
 
-
-#### Atualmente
-- Em busca de uma oportunidade para aumentar meu conhecimento.
 
 #### Conecte-se comigo
 
