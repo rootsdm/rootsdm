@@ -1,16 +1,16 @@
 # 👋 Oi, Eu sou Sergio Diniz.
 
-## DEV backEnd Java full stack.
-## Estagiário na Ludatech (JAVA BACKEND)
+## DEV backEnd Java Full Stack.
+
+## Curso Java Experience - Treina Recife.
+## Estagiário na Ludatech (JAVA Full Stack)
 ## Estudante de Desenvolvimento de Sistemas (Ampli-Pitágoras) - conclusão dezembro/2023.
-## Curso Java (Fuctura - Cursos de Tecnologia) - conlcusão julho/2023.
+## Curso Java (Fuctura - Cursos de Tecnologia) - conclusão julho/2023.
 
 #### Sobre mim em 30 segundos
 - Nova graduação ADS - Análise de Desenvolvimento de Sistemas - Conclusão: Dez/2023.
-- Conhecimentos em: Sql, Git/GitHub, Python e Java.
+- Conhecimentos em: Sql, Git/GitHub, Python, Java, e Angular.
 - Implantei ERP.
-
-
 
 #### Competências principais
 
@@ -36,11 +36,6 @@
 
 -Fuctura Tecnologia 
 >Julho de 2021 - Lógica de Programação 
-
-#### Trabalho Voluntário
-- Rio Vivo Rio Limpo 
->Meio ambiente - é uma ação desde 20/01/2020 e tem como objetivo principal promover a conscientização da população nativa e os turistas com relação ao problema ambiental causado pelos descartes inapropriados de resíduos na região do Cabo de Santo Agostinho.
-
 
 #### Conecte-se comigo
 
