@@ -23,7 +23,7 @@
 - Estruturas de dados
 - JSF
 - JAVA
-- 
+
 
 #### Pre-Transição de Carreira
 - Universidade Federal da Paraíba - PETELETRICA
