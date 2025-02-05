@@ -2,8 +2,9 @@
 
 ## DEV backEnd Java Full Stack.
 
+## Curso Angular - Treina Recife.
 ## Curso Java Experience - Treina Recife.
-## Estagiário na Ludatech (JAVA Full Stack)
+## Full Stack Developer na Ludatech (JAVA Full Stack)
 ## Estudante de Desenvolvimento de Sistemas (Ampli-Pitágoras) - conclusão dezembro/2023.
 ## Curso Java (Fuctura - Cursos de Tecnologia) - conclusão julho/2023.
 
